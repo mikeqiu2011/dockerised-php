@@ -9,4 +9,4 @@ The Docker setup for PHP applications using PHP7-FPM and Nginx described in http
 
 That's it! You have your local PHP setup using Docker
 
-*Example of activated PHP logging* - https://github.com/mikechernev/dockerised-php/tree/feature/log-to-stdout
+*Example of activated PHP logging* - https://github.com/mikechernev/dockerised-php/tree/feature/log-to-stdoutmodified by mike
